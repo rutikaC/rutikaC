@@ -1,55 +1,69 @@
-# Hi, I'm Rutika 👋
+# Hey there! 👋 I'm Rutika Chavhan
 
-### Aspiring Full Stack Developer | MERN Stack | Exploring DevOps
+### 💻 Full Stack Developer in the Making | MERN Stack Developer
 
-I'm a BCA graduate interested in building web applications and learning new technologies. I enjoy turning ideas into projects and improving my development skills by working on real-world problems.
+I enjoy turning ideas into interactive web applications and figuring out how things work behind the scenes. I'm focused on building projects that solve real problems, writing better code, and growing as a developer one project at a time. 🚀
 
-- 🌱 Currently learning **Docker and DevOps fundamentals**
-- 💻 Interested in **Full Stack Development**
-- 🚀 Building projects using the **MERN stack**
-- 🎯 Working towards becoming a job-ready software developer
-- 📍 Based in India
+- 🔭 Currently building and improving **full-stack web applications**
+- 🌱 Learning more about **React, Node.js, Express.js, and MongoDB**
+- 🧩 Interested in clean UI, REST APIs, authentication, and database design
+- 🎯 Goal: Become a skilled Full Stack Developer by building real-world projects
+- ⚡ Fun fact: I love solving coding problems and turning a blank screen into something useful!
 
-### 🛠️ Tech Stack
+---
 
-**Frontend:** React.js, JavaScript, Redux Toolkit, Tailwind CSS, HTML, CSS
+## 🛠️ Tech Stack
 
-**Backend:** Node.js, Express.js, REST APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,mysql,git,github,docker,vscode" />
+</p>
 
-**Database:** MongoDB, SQL
+## 🚀 Projects I've Built
 
-**Tools:** Git, GitHub, Postman, Docker
+### 🎟️ [EventFlow](https://github.com/rutikaC/EventFlow)
+**AI-Powered Event Management Platform**
 
-**Other:** JWT Authentication, Cloudinary, Gemini API
+A full-stack application for exploring events, managing bookings, and generating event descriptions with AI.
 
-### 🚀 Featured Projects
+- ⚛️ React, Node.js, Express.js, MongoDB
+- 🤖 Gemini API integration
+- ☁️ Cloudinary image uploads
+- 💳 Razorpay payment integration
+- 🌐 [Live Demo](https://eventflow-frontend-4lsd.onrender.com)
 
-**EventFlow — AI-Powered Event Management**
+### 🛒 QuickCart
+**E-commerce Web Application**
 
-A full-stack application where users can explore events, manage bookings, and use AI-generated event descriptions.
+A project focused on building an online shopping experience and practicing frontend development.
 
-- Tech: React, Node.js, Express, MongoDB, Docker
-- [Live Demo](https://eventflow-frontend-4lsd.onrender.com)
-- [Source Code](https://github.com/rutikaC/EventFlow)
+- React.js and JavaScript
+- Component-based UI and reusable components
 
-**QuickCart — E-commerce Application**
+### 🔎 GitHub Profile Explorer
+**Explore GitHub Profiles**
 
-An e-commerce project built to practice frontend development and shopping-related user flows.
+A React application to search for GitHub users, view profile information, and save favorite profiles.
 
-- Tech: React.js, JavaScript
+- React.js and GitHub API
+- Routing and local storage
 
-**GitHub Profile Explorer**
+---
 
-A React application for exploring GitHub user profiles and saving favorite profiles.
+## 📈 My GitHub Journey
 
-- Tech: React.js, GitHub API
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rutikaC&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutikaC&layout=compact&hide_border=true&theme=tokyonight" />
+</p>
 
-### 📊 GitHub Activity
+---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rutikaC&show_icons=true&hide_border=true)](https://github.com/rutikaC)
+## 🤝 Let's Connect
 
-### 🤝 Connect With Me
+<a href="https://github.com/rutikaC">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-- GitHub: [@rutikaC](https://github.com/rutikaC)
+I'm always learning, building, and looking for opportunities to grow as a developer. Thanks for stopping by! 😊
 
-I'm always looking to learn, build projects, and connect with other developers. Thanks for visiting my profile! 😊
+⭐ *Feel free to explore my repositories and check out what I'm building.*
