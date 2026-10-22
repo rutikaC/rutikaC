@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Rutika Chavhan
+# Hey there! 👋 I'm Rutika Chavan
 
 ### 💻 Full Stack Developer in the Making | MERN Stack Developer
 
