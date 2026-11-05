@@ -1,69 +1,50 @@
-# Hey there! 👋 I'm Rutika Chavan
+# Hi 👋, I'm **Rutika Chavan**
 
-### 💻 Full Stack Developer in the Making | MERN Stack Developer
+🚀 Full-Stack Developer | MERN Stack
 
-I enjoy turning ideas into interactive web applications and figuring out how things work behind the scenes. I'm focused on building projects that solve real problems, writing better code, and growing as a developer one project at a time. 🚀
+I build **modern, responsive, and scalable web applications** with a focus on full-stack development, backend engineering, and problem-solving.
 
-- 🔭 Currently building and improving **full-stack web applications**
-- 🌱 Learning more about **React, Node.js, Express.js, and MongoDB**
-- 🧩 Interested in clean UI, REST APIs, authentication, and database design
-- 🎯 Goal: Become a skilled Full Stack Developer by building real-world projects
-- ⚡ Fun fact: I love solving coding problems and turning a blank screen into something useful!
+I enjoy turning ideas into functional applications, designing RESTful APIs, working with databases, and building clean user experiences.
+
+💡 *"Building projects, solving problems, and getting better with every line of code."*
+
+---
+
+## 🧠 What I Focus On
+
+- ⚛️ Building interactive and responsive web applications using React.js
+- ⚙️ Developing backend services and RESTful APIs with Node.js and Express.js
+- 🗄️ Working with MongoDB and SQL databases
+- 🔐 Implementing authentication and application security using JWT
+- 🐳 Exploring containerization and deployment with Docker
+- 🧩 Strengthening problem-solving skills through DSA in Java
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,mysql,git,github,docker,vscode" />
-</p>
-
-## 🚀 Projects I've Built
-
-### 🎟️ [EventFlow](https://github.com/rutikaC/EventFlow)
-**AI-Powered Event Management Platform**
-
-A full-stack application for exploring events, managing bookings, and generating event descriptions with AI.
-
-- ⚛️ React, Node.js, Express.js, MongoDB
-- 🤖 Gemini API integration
-- ☁️ Cloudinary image uploads
-- 💳 Razorpay payment integration
-- 🌐 [Live Demo](https://eventflow-frontend-4lsd.onrender.com)
-
-### 🛒 QuickCart
-**E-commerce Web Application**
-
-A project focused on building an online shopping experience and practicing frontend development.
-
-- React.js and JavaScript
-- Component-based UI and reusable components
-
-### 🔎 GitHub Profile Explorer
-**Explore GitHub Profiles**
-
-A React application to search for GitHub users, view profile information, and save favorite profiles.
-
-- React.js and GitHub API
-- Routing and local storage
+![My Skills](https://skillicons.dev/icons?i=javascript,java,react,redux,tailwind,nodejs,express,mongodb,html,css,docker,git,github,postman,linux)
 
 ---
 
-## 📈 My GitHub Journey
+## 🚀 Featured Projects
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rutikaC&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutikaC&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
+- **EventFlow** – Full-stack event management platform with AI-powered event description generation.
+- **TradeSphere** – Responsive frontend application built with React.js and Tailwind CSS.
+- **Full-Stack Blog Application** – Web application with React frontend and Express.js backend.
 
 ---
 
-## 🤝 Let's Connect
+## 📫 Let's Connect
 
-<a href="https://github.com/rutikaC">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+📧 **Email:** crutika.08@gmail.com
 
-I'm always learning, building, and looking for opportunities to grow as a developer. Thanks for stopping by! 😊
+💼 **LinkedIn:** https://www.linkedin.com/in/rutika-chavhan/
 
-⭐ *Feel free to explore my repositories and check out what I'm building.*
+🐙 **GitHub:** https://github.com/rutikaC
+
+---
+
+## ⚡ A Little About Me
+
+I enjoy learning new technologies, exploring how things work behind the scenes, and building projects that help me grow as a developer.
